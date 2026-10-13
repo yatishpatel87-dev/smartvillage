@@ -1,0 +1,6 @@
+{
+  "name": "3D Smart Eco-Village AI Simulator - વિજ્ઞાન મેળો પ્રોજેક્ટ",
+  "description": "Interactive Three.js 3D Smart Eco-Village Simulator for Science Fairs with 7 automated modules: Solar School, AI Smart Agriculture Sprinklers, Smart Street Lights, IoT Water Tank, Smart Dustbin, Biogas Plant, and EV Charging Station.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
